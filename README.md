@@ -2,7 +2,12 @@
 * Entre no seu diretório onde deseja clonar o projeto 
  * Digite o comando -> git clone https://github.com/alan-10/client-github.git
  * protinho agora para instalar as dependências digite o comando yarn install
- * Agora para startar a aplicação der o comando yarn dev, depois vá no seu navegador e digite o link http://localhost:3000/
+ * Prontinho estamos quase lá, caso na raiz do projeto nao tenha o arquivo .env.local  crie na sua pasta raiz o arquivo .env.local e cole esse codigo abaixo
+
+ GITHUB_ID=31f9d4bf23213b780d3d
+GITHUB_SECRET=978a86ecd951c9672a3e0eedef04a0311fbe4704
+NEXTAUTH_URL=http://localhost:3000
+ * Agora para startar a aplicação dê o comando yarn dev, depois vá no seu navegador e digite o link http://localhost:3000/
 
  ### Ferramentas utilizadas
  * nextJS 
