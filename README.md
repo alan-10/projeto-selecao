@@ -1,6 +1,6 @@
 ## Clonar o repositorio 
 * Entre no seu diretório onde deseja clonar o projeto 
- * Digite o comando -> git clone https://github.com/alan-10/client-github.git
+ * Digite o comando -> git clone https://github.com/alan-10/projeto-selecao.git
  * protinho agora para instalar as dependências digite o comando yarn install
  * Prontinho estamos quase lá, caso na raiz do projeto nao tenha o arquivo .env.local  crie na sua pasta raiz o arquivo .env.local e cole esse codigo abaixo
 
